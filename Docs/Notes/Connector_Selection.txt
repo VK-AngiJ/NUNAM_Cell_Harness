@@ -1,0 +1,5 @@
+Connector selection criteria for cell harness PCB
+1. maximum width should not be more than 44mm
+2. connector female housing should be able to take 22awg wire (0.35 sq mm)
+3. maximum height should not be more than 20mm
+4. Molex 430451022, JST XH series

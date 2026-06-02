@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Nunam_Cell_Harness") (type "KiCad") (uri "${KIPRJMOD}/Library/Nunam_Cell_Harness.pretty") (options "") (descr ""))
+)
